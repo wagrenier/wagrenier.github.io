@@ -1,5 +1,5 @@
 # Portfolio
-[![github pages](https://github.com/wagrenier/williamportfolio/actions/workflows/main.yml/badge.svg)](https://github.com/wagrenier/williamportfolio/actions/workflows/main.yml)
+[![github pages](https://github.com/wagrenier/wagrenier.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/wagrenier/wagrenier.github.io/actions/workflows/main.yml)
 
 ## Built using React and tools from GitHub Student Developer Pack.
 
