@@ -1,0 +1,118 @@
+{
+	"landing": {
+		"firstName": "アダム　グレニエ",
+		"lastName": "ウイリアム",
+		"bio": "日本語版 in the works! Currently translating this page to be available in Japanese :)",
+    	"email": "william.a-g@hotmail.com",
+    	"linkedin": "https://www.linkedin.com/in/william-adam-grenier-339559165/",
+		"github": "https://github.com/wagrenier",
+		"sections": {
+			"about": "ABOUT",
+			"experience": "EXPERIENCE",
+			"education": "EDUCATION",
+			"skills": "ATOUTS",
+			"interests": "INTERESTS",
+			"awards": "AWARDS"
+		}
+	},
+	"experience": [
+		{
+			"position": "Interne",
+			"organization": "GSoft",
+			"aboutWork": 
+			[
+				"Develop new infrastructure solutions and tools to accelerate the creation of new features",
+				"Act as an itermediary between the security team and development team"
+			],
+			"fromDate": "September 2020",
+			"toDate": "December 2020"
+		},
+		{
+			"position": "Intern Tools Programmer",
+			"organization": "Square Enix Montreal, Armory",
+			"aboutWork":
+			[
+				"Develop and designing a new platform to support the needs of modern mobile games' needs"
+			],
+			"fromDate": "August 2019",
+			"toDate": "December 2019"
+		},
+		{
+			"position": "Intern Tools Programmer",
+			"organization": "Ubisoft Montreal, BuildDB",
+			"aboutWork":
+			[
+				"Design new REST API application for large scale data transfer applicaiton in a video game context"
+			],
+			"fromDate": "April 2018",
+			"toDate": "April 2019"
+		}
+	],
+	"education": 
+	[
+		{
+			"university": "Université de Sherbrooke",
+			"degree": "Ingenieur",
+			"fromDate": "August 2017",
+			"toDate": "December 2021"
+		},
+		{
+			"university": "Champlain College",
+			"degree": "Computer Science and Mathematics",
+			"fromDate": "August 2015",
+			"toDate": "June 2017"
+		},
+		{
+			"university": "Jean Jacques Bertrand High School",
+			"degree": "IB Programme",
+			"fromDate": "August 2010",
+			"toDate": "June 2015"
+		}
+	],
+	"skills": 
+	[
+		{
+			"name": "C++"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "ASP.NET"
+		},
+		{
+			"name": "Architecture"
+		},
+		{
+			"name": "Reverse Engineering"
+		},
+		{
+			"name": "Basics of penetration testing"
+		}
+	],
+	"interests": {
+		"paragraphOne": "J'aime les trucs",
+		"paragraphTwo": "日本語を勉強している."
+	},
+	"awards": 
+	[
+		{
+			"awardDetail": "Mom papa m'aime"
+		},
+		{
+			"awardDetail": "Hackathon."
+		},
+		{
+			"awardDetail": "Prix UdeS."
+		}
+	]
+}
