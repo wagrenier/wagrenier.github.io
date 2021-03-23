@@ -20,7 +20,7 @@
 	[
 		{
 			"position": "Software Developer Intern",
-			"organization": "GSoft",
+			"organization": "GSoft, Officevibe",
 			"aboutWork": 
 			[
 				"Develop new infrastructure solutions and tools to accelerate the creation of new features",
@@ -63,24 +63,33 @@
 		{
 			"university": "Université de Sherbrooke",
 			"degree": "Computer Engineering",
-			"fromDate": "August 2017",
-			"toDate": "December 2021"
+			"fromDate": "2017",
+			"toDate": "2021"
 		},
 		{
 			"university": "Champlain College",
 			"degree": "Computer Science and Mathematics",
-			"fromDate": "August 2015",
-			"toDate": "June 2017"
+			"fromDate": "2015",
+			"toDate": "2017"
 		},
 		{
 			"university": "Jean Jacques Bertrand High School",
 			"degree": "IB Programme",
-			"fromDate": "August 2010",
-			"toDate": "June 2015"
+			"fromDate": "2010",
+			"toDate": "2015"
 		}
 	],
 	"skills": 
 	[
+		{
+			"name": "French"
+		},
+		{
+			"name": "English"
+		},
+		{
+			"name": "Japanese (~N4)"
+		},
 		{
 			"name": "C++"
 		},
@@ -113,15 +122,6 @@
 		},
 		{
 			"name": "Basics of penetration testing"
-		},
-		{
-			"name": "French"
-		},
-		{
-			"name": "English"
-		},
-		{
-			"name": "Japanese (~N4)"
 		}
 	],
 	"interests": 

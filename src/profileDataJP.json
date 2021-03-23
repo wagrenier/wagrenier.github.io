@@ -1,6 +1,6 @@
 {
 	"landing": {
-		"firstName": "アダム　グレニエ",
+		"firstName": "アダム　グレニエル",
 		"lastName": "ウイリアム",
 		"bio": "日本語版 in the works! Currently translating this page to be available in Japanese :)",
     	"email": "william.a-g@hotmail.com",
@@ -15,14 +15,17 @@
 			"awards": "AWARDS"
 		}
 	},
-	"experience": [
+	"experience": 
+	[
 		{
-			"position": "Interne",
-			"organization": "GSoft",
+			"position": "Software Developer Intern",
+			"organization": "GSoft, Officevibe",
 			"aboutWork": 
 			[
 				"Develop new infrastructure solutions and tools to accelerate the creation of new features",
-				"Act as an itermediary between the security team and development team"
+				"Act as an itermediary between the security team and development team",
+				"Find and fix security vulnerabilities contained in the application",
+				"Communicate effective methodologies to prevent future security flaws by design"
 			],
 			"fromDate": "September 2020",
 			"toDate": "December 2020"
@@ -32,7 +35,10 @@
 			"organization": "Square Enix Montreal, Armory",
 			"aboutWork":
 			[
-				"Develop and designing a new platform to support the needs of modern mobile games' needs"
+				"Optimize cross and in-service data management in C#",
+				"Develop a compiler from OpenAPI to C#",
+				"Design new services",
+				"Optimize services performance"
 			],
 			"fromDate": "August 2019",
 			"toDate": "December 2019"
@@ -42,7 +48,10 @@
 			"organization": "Ubisoft Montreal, BuildDB",
 			"aboutWork":
 			[
-				"Design new REST API application for large scale data transfer applicaiton in a video game context"
+				"Design new REST API applications for large scale data transfer in a video game context",
+				"Manage SQL database",
+				"Design a log system with standarization of information",
+				"Organize log information in Python and Kibana"
 			],
 			"fromDate": "April 2018",
 			"toDate": "April 2019"
@@ -52,25 +61,34 @@
 	[
 		{
 			"university": "Université de Sherbrooke",
-			"degree": "Ingenieur",
-			"fromDate": "August 2017",
-			"toDate": "December 2021"
+			"degree": "Computer Engineering",
+			"fromDate": "2017",
+			"toDate": "2021"
 		},
 		{
 			"university": "Champlain College",
 			"degree": "Computer Science and Mathematics",
-			"fromDate": "August 2015",
-			"toDate": "June 2017"
+			"fromDate": "2015",
+			"toDate": "2017"
 		},
 		{
 			"university": "Jean Jacques Bertrand High School",
 			"degree": "IB Programme",
-			"fromDate": "August 2010",
-			"toDate": "June 2015"
+			"fromDate": "2010",
+			"toDate": "2015"
 		}
 	],
 	"skills": 
 	[
+		{
+			"name": "フランス語"
+		},
+		{
+			"name": "英語"
+		},
+		{
+			"name": "日本語 (~N4)"
+		},
 		{
 			"name": "C++"
 		},
@@ -90,29 +108,51 @@
 			"name": "ASP.NET"
 		},
 		{
-			"name": "Architecture"
+			"name": "Powershell"
 		},
 		{
-			"name": "Reverse Engineering"
+			"name": "CI/CD"
+		},
+		{
+			"name": "Software Architecture"
+		},
+		{
+			"name": "Reverse Engineering With Ghidra"
 		},
 		{
 			"name": "Basics of penetration testing"
 		}
 	],
-	"interests": {
-		"paragraphOne": "J'aime les trucs",
-		"paragraphTwo": "日本語を勉強している."
+	"interests": 
+	{
+		"paragraphOne": "I enjoy reverse engineering, old games, learning new languages and low level/security stuff. I have made a data extractor from reverse engineering a game's data format and file format. This tool can extract music, 2D/3D textures and videos. I have also made a ransomware that encrypts files with AES and forces the user to play 東宝(touhou) to decrypt the files. The applications searches and scans the memory for specific information.",
+		"paragraphTwo": "今日は、日本語を勉強している. I enjoy studying new languages, currently studying Japanese! "
 	},
 	"awards": 
 	[
 		{
-			"awardDetail": "Mom papa m'aime"
+			"awardDetail": "CTF 2020, 2020, Capture The Flag competition & Penetration Testing, Montreal"
 		},
 		{
-			"awardDetail": "Hackathon."
+			"awardDetail": "NorthSec 2019, 2019, Capture The Flag competition & Penetration Testing, Montreal"
 		},
 		{
-			"awardDetail": "Prix UdeS."
+			"awardDetail": "ConUHacks IV, 2019, Software hackathon, University of Concordia, Montreal"
+		},
+		{
+			"awardDetail": "ConUHacks IV, 2019, Software hackathon, University of Concordia, Montreal"
+		},
+		{
+			"awardDetail": "ConUHacks III, 2018, Software hackathon, University of Concordia, Montreal"
+		},
+		{
+			"awardDetail": "PIRUS, 2017, Robotic competition, University of Sherbrooke, Sherbrooke"
+		},
+		{
+			"awardDetail": "Won the audience’s award for the robotic competition Pirus, entirely coded in C"
+		},
+		{
+			"awardDetail": "Canadian Computing Competition, Software algorithms, 2016, University of Waterloo, St Lambert"
 		}
 	]
 }
