@@ -3,11 +3,12 @@
 	{
 		"firstName": "William",
 		"lastName": "Adam-Grenier",
-		"bio": "Bonjour! Hi! 今日は～！ My name is William, I speak French, English and basic Japanese. I am studying computer engineering and learning languages is my passion, both computer languages and human languages. Video game archival is important for me and I love to pen test things in my free time.",
+		"bio": "Bonjour! Hi! こんにちは～！ My name is William, I speak French, English and basic Japanese. I am studying computer engineering and learning languages is my passion, both computer languages and human languages. Video game archival is important for me and I love to pen test things in my free time.",
     	"email": "william.a-g@hotmail.com",
     	"linkedin": "https://www.linkedin.com/in/william-adam-grenier-339559165/",
 		"github": "https://github.com/wagrenier",
-		"sections": {
+		"sections": 
+		{
 			"about": "ABOUT",
 			"experience": "EXPERIENCE",
 			"education": "EDUCATION",
@@ -19,7 +20,7 @@
 	"experience": 
 	[
 		{
-			"position": "Software Developer Intern",
+			"position": "Software Developer Intern, Fullstack",
 			"organization": "GSoft, Officevibe",
 			"aboutWork": 
 			[
@@ -126,8 +127,8 @@
 	],
 	"interests": 
 	{
-		"paragraphOne": "I enjoy reverse engineering, old games, learning new languages and low level/security stuff. I have made a data extractor from reverse engineering a game's data format and file format. This tool can extract music, 2D/3D textures and videos. I have also made a ransomware that encrypts files with AES and forces the user to play 東宝(touhou) to decrypt the files. The applications searches and scans the memory for specific information.",
-		"paragraphTwo": "今日は、日本語を勉強している. I enjoy studying new languages, currently studying Japanese! "
+		"paragraphOne": "I enjoy reverse engineering, old games, learning new languages and low level/security stuff. I have made a data extractor from reverse engineering a game's data format and file format. This tool can extract music, 2D/3D textures and videos. I have also made a ransomware that encrypts files with AES and forces the user to play 東方(touhou) to decrypt the files. The applications searches and scans the memory for specific information.",
+		"paragraphTwo": "今は、日本語を勉強している. I enjoy studying new languages, currently studying Japanese! "
 	},
 	"awards": 
 	[
