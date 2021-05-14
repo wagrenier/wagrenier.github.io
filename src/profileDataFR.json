@@ -3,7 +3,7 @@
 	{
 		"firstName": "William",
 		"lastName": "Adam-Grenier",
-		"bio": "Bonjour! Hi! こんにちは～！ My name is William, I speak French, English and basic Japanese. I am studying computer engineering and learning languages is my passion, both computer languages and human languages. Video game archival is important for me and I love to pen test things in my free time.",
+		"bio": "Bonjour! Hi! こんにちは～！ Mon nom est William, je parle français, anglais et japonais. J'étudie l'ingénierie informatique et apprendre de nouvelles langues est ma passion. Archiver l'histoire du jeu vidéo est un de mes sujets qui me tient à coeur. J'ai conçu des programmes pour aider avec cela. Je fais aussi de la rétro ingénierie dans mon temps libre.",
     	"email": "william.a-g@hotmail.com",
     	"linkedin": "https://www.linkedin.com/in/william-adam-grenier-339559165/",
 		"github": "https://github.com/wagrenier",
@@ -127,7 +127,7 @@
 	],
 	"interests": 
 	{
-		"paragraphOne": "I enjoy reverse engineering, old games, learning new languages and low level/security stuff. I have made a data extractor from reverse engineering a game's data format and file format. This tool can extract music, 2D/3D textures and videos. I have also made a ransomware that encrypts files with AES and forces the user to play 東方(touhou) to decrypt the files. The applications searches and scans the memory for specific information.",
+		"paragraphOne": "J'aime faire de la rétro ingéniere, les vieux jeux rétro (PS2), apprendre de nouvelles langues et d ela programmation low-level comme C++. J'ai créé un outil pour l'archivage de jeux PS2 qui permet d'extraire les fichiers audio, vidéos et textures. J'ai aussi développé un ransomware utlisant AES qui force l'utilisateur à jouer au jeu 東方(touhou) pour avoir les fichiers.",
 		"paragraphTwo": "今は、日本語を勉強している. J'aime apprendre de nouvelles langues et je suis entrain d'apprendre le japonais!"
 	},
 	"awards": 
@@ -142,22 +142,22 @@
 			"awardDetail": "NorthSec 2019, 2019, Capture The Flag competition & Penetration Testing, Montréal"
 		},
 		{
-			"awardDetail": "ConUHacks IV, 2019, Software hackathon, University of Concordia, Montréal"
+			"awardDetail": "ConUHacks IV, 2019, Software hackathon, Université de Concordia, Montréal"
 		},
 		{
-			"awardDetail": "ConUHacks IV, 2019, Software hackathon, University of Concordia, Montréal"
+			"awardDetail": "ConUHacks IV, 2019, Software hackathon, Université de Concordia, Montréal"
 		},
 		{
-			"awardDetail": "ConUHacks III, 2018, Software hackathon, University of Concordia, Montréal"
+			"awardDetail": "ConUHacks III, 2018, Software hackathon, Université de Concordia, Montréal"
 		},
 		{
-			"awardDetail": "PIRUS, 2017, Robotic competition, University of Sherbrooke, Sherbrooke"
+			"awardDetail": "PIRUS, 2017, Robotic competition, Université de Sherbrooke, Sherbrooke"
 		},
 		{
 			"awardDetail": "Gagné le prix public pour la compétition de robotique PirUS, codé en C"
 		},
 		{
-			"awardDetail": "Canadian Computing Competition, Software algorithms, 2016, University of Waterloo, St-Lambert"
+			"awardDetail": "Canadian Computing Competition, Software algorithms, 2016, Université de Waterloo, St-Lambert"
 		}
 	]
 }
