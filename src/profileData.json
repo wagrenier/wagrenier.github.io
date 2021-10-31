@@ -24,19 +24,21 @@
 			"organization": "GSoft, Officevibe",
 			"aboutWork": 
 			[
+				"Develop a new more secured login system that meets modern standards",
 				"Develop new infrastructure solutions and tools to accelerate the creation of new features",
 				"Act as an itermediary between the security team and development team",
 				"Find and fix security vulnerabilities contained in the application",
 				"Communicate effective methodologies to prevent future security flaws by design"
 			],
 			"fromDate": "September 2020",
-			"toDate": "December 2020"
+			"toDate": "April 2022"
 		},
 		{
 			"position": "Intern Tools Programmer",
 			"organization": "Square Enix Montreal, Armory",
 			"aboutWork":
 			[
+				"Create game focused performing Web Api to accelerate mobile game development",
 				"Optimize cross and in-service data management in C#",
 				"Develop a compiler from OpenAPI to C#",
 				"Design new services",

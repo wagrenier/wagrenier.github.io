@@ -28,7 +28,7 @@
 				"Communicate effective methodologies to prevent future security flaws by design"
 			],
 			"fromDate": "September 2020",
-			"toDate": "December 2020"
+			"toDate": "April 2022"
 		},
 		{
 			"position": "Intern Tools Programmer",
@@ -126,7 +126,7 @@
 	"interests": 
 	{
 		"paragraphOne": "I enjoy reverse engineering, old games, learning new languages and low level/security stuff. I have made a data extractor from reverse engineering a game's data format and file format. This tool can extract music, 2D/3D textures and videos. I have also made a ransomware that encrypts files with AES and forces the user to play 東宝(touhou) to decrypt the files. The applications searches and scans the memory for specific information.",
-		"paragraphTwo": "今日は、日本語を勉強している. I enjoy studying new languages, currently studying Japanese! "
+		"paragraphTwo": "今は、日本語を勉強している. I enjoy studying new languages, currently studying Japanese! "
 	},
 	"awards": 
 	[
